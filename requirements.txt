@@ -1,6 +1,4 @@
 opencv-python
-jupyter
-matplotlib
 pandas
 numpy
 pillow
@@ -10,6 +8,8 @@ scikit-learn
 scikit-image
 seaborn
 h5py
-ipykernel
 bokeh
 pickleshare
+torch
+torchvision
+torchaudio
